@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to file3 modified
+=======
+welcome to file3
+>>>>>>> f39682a097138aed1585aad6b992df3bfb49a9da
